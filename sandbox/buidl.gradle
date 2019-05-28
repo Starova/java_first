@@ -1,0 +1,3 @@
+apply plagin 'java'
+apply plugin 'application'
+mainClassName = "MyFirstProgram"
